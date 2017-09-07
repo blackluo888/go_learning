@@ -1,7 +1,0 @@
-package mail
-
-
-
-func main() {
-	
-}
